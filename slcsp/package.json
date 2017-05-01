@@ -1,0 +1,25 @@
+{
+  "name": "slcsp",
+  "version": "1.0.0",
+  "description": "csv reader",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "node",
+    "stream",
+    "pipe"
+  ],
+  "author": "anton arboleda",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.4.0",
+    "bluebird": "^3.5.0",
+    "csv": "^1.1.1",
+    "csv-parse": "^1.2.0",
+    "fast-csv": "^2.4.0",
+    "fs": "0.0.1-security",
+    "parse": "^1.9.2"
+  }
+}
